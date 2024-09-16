@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nliatens.github.io/sitemap.html.gz
+Sitemap: https://nliatens.github.io/app/sitemap.html.gz
+Sitemap: https://nliatens.github.io/assets/sitemap.html.gz
+Sitemap: https://nliatens.github.io/css/sitemap.html.gz
+Sitemap: https://nliatens.github.io/includes/sitemap.html.gz
+Sitemap: https://nliatens.github.io/item/sitemap.html.gz
+Sitemap: https://nliatens.github.io/src/sitemap.html.gz
